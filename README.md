@@ -11,7 +11,7 @@ I build backend and AI systems, then make their behavior easier to inspect, debu
 | RouteWise | SafeDesk | ShivanyaOS |
 | --- | --- | --- |
 | A cost-aware LLM gateway that routes requests, reuses work, enforces budgets, and explains every decision. | A permission-aware desktop AI that turns natural-language goals into transparent, auditable actions. **Currently building.** | An interactive, OS-inspired portfolio with draggable windows, terminal commands, and accessible desktop and mobile experiences. |
-| [View code](https://github.com/shivanya-chandra/routewise) | Coming soon | [Launch](https://shivanyaos.pages.dev/) · [View code](https://github.com/shivanya-chandra/shivanyaOS) |
+| [View code](https://github.com/shivanya-chandra/routewise) | [View code](https://github.com/shivanya-chandra/SafeDesk) | [Launch](https://shivanyaos.pages.dev/) · [View code](https://github.com/shivanya-chandra/shivanyaOS) |
 
 ## Working with
 
